@@ -10,3 +10,6 @@ Sergio ayala oliva
 # mis metas
 1- terminar la preparatoria y tener mi certificado y entrar a la universidad
 2-obtener una buena disiplina para la vida 
+
+# mejor amigo
+omar rivera
